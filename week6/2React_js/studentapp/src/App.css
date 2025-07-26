@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;      /* Horizontal center */
+  justify-content: flex-start; /* Stick to top */
+  min-height: 100vh;        /* Full height */
+  text-align: center;
+  padding-top: 40px;        /* Space from top */
+}
+
+.App h1 {
+  font-size: 20px; /* Reduced font size */
+  margin: 10px 0;
+}
