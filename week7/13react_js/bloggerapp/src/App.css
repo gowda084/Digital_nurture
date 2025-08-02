@@ -1,0 +1,22 @@
+.st2, .v1, .mystyle1 {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.st2, .v1 {
+  border-left: 4px solid green;
+  padding-left: 20px;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+h3, h4, p {
+  margin: 4px 0;
+}
